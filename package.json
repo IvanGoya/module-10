@@ -1,0 +1,27 @@
+{
+  "name": "team-file-generator",
+  "version": "1.0.0",
+  "description": "My Tenth Ohio State module assignment",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanGoya/module-10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanGoya/module-10/issues"
+  },
+  "homepage": "https://github.com/IvanGoya/module-10#readme",
+  "dependencies": {
+    "inquirer": "^9.0.2",
+    "jest": "^28.1.3"
+  }
+}
